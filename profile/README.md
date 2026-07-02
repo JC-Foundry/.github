@@ -1,6 +1,6 @@
 # JC Foundry
 
-Independent software development by John Craik.
+Independant software development by John Craik.
 
 JC Foundry is my professional development umbrella for client websites, reusable .NET packages, internal tools, and selected portfolio projects.
 
